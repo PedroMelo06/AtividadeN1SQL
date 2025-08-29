@@ -1,0 +1,11 @@
+SHOW TABLES;
+SELECT * FROM Pessoa;
+SELECT * FROM Autor;
+SELECT * FROM Aluno;
+SELECT * FROM Curso;
+SELECT * FROM Turma;
+SELECT * FROM Livro;
+SELECT * FROM Autor_Livro;
+SELECT * FROM Aluno_Curso;
+SELECT * FROM Aluno_Turma;
+SELECT * FROM Emprestimo;
